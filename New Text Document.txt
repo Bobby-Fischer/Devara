@@ -1,0 +1,7 @@
+class Java{
+
+Public static void main str[]args{
+
+System.out.println("hello world");
+}
+}
